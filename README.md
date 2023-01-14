@@ -1,4 +1,4 @@
-# heart-disease-prediction
+# Regression to predict Heart Disease
 Project for the course of *Mathematical Statistics*.
 We built a series of models with the goal to predict if a patient, given a series of parameters, has an heart disease.
 
